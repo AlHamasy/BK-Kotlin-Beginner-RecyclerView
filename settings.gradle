@@ -1,2 +1,3 @@
+include ':daftarbuah'
 include ':app'
 rootProject.name = "List and Recycler View"
